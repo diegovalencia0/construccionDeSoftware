@@ -6,7 +6,7 @@ Simon  is a digital version of the classic memory game "Simon". This game challe
 
 ## Installation
 
-1. Clone or download the repository.
+1. Clone or download the repository folder called "Construccion".
 2. Open the project in Unity.
 3. Navigate to the main game scene.
 4. Run the game in the Unity editor.
