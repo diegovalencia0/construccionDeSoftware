@@ -1,4 +1,4 @@
-// Creating the main functions for simon game
+// Creating the main functions for simon game works
 // Diego Valencia Moreno
 // 2024-05-03
 
